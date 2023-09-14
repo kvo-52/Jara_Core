@@ -16,7 +16,7 @@ public class GameCrossZerro {
     /** Задаем текущего играка (set the current player)
      *
      */
-    public static byte playerNumber = 0;
+    public static byte playerNumber = 1;
 
     /** The function sets the number of the next player
      *
