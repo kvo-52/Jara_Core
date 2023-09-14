@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e165e65-ee24-4cb4-9ad4-602acb0d2a0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Example/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/main/java/gb/task1/Decorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/main/java/gb/task1/OtherClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/main/java/gb/task2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/main/java/out/gb/task1/Decorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/main/java/out/gb/task1/OtherClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/main/java/out/gb/task2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/gb/task1/Decorator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/gb/task1/OtherClass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/gb/task1/class-use/Decorator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/gb/task1/class-use/OtherClass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/gb/task1/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/gb/task1/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/gb/task1/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/gb/task2/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/gb/task2/class-use/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/gb/task2/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/gb/task2/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/gb/task2/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/jquery-ui.overrides.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/overview-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/script-dir/jquery-3.6.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/out/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/target/classes/gb/task1/Decorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/target/classes/gb/task1/OtherClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/target/classes/gb/task2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2VNFfRt9hzuIiXrtrITxSAIv58R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "last_opened_file_path": "D:/GeekBrains/БЛОК-3_Developer/1.Java_Core/HW_java_core",
+    "onboarding.tips.debug.path": "D:/GeekBrains/БЛОК-3_Developer/1.Java_Core/HW_java_core/Exp02/src/main/java/ru/gb/jcore/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e165e65-ee24-4cb4-9ad4-602acb0d2a0d" name="Changes" comment="" />
+      <created>1694605406138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694605406138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/gb/jcore/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
