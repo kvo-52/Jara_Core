@@ -3,16 +3,27 @@ package ru.gb.jcore;
 
 public class Main {
     public static void main(String[] args) {
-        // Press Alt+Enter with your caret at the highlighted text to see how
-        // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        Worker[] workers = new Worker[4];
+        workers[0] = new HourlyWorker("Ivanov", 100);
+        workers[1] = new HourlyWorker("Petrov", 120);
+        workers[2] = new FixedWorker("Sidorov", 5000);
+        workers[3] = new FixedWorker("Kuznetsov", 7000);
 
-        // Press Shift+F10 or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {
+        // Создание объекта класса WorkersArray
+        WorkerCompany workersArray = new WorkerCompany(workers);
 
-            // Press Shift+F9 to start debugging your code. We have set one breakpoint
-            // for you, but you can always add more by pressing Ctrl+F8.
-            System.out.println("i = " + i);
-        }
+        // Сортировка массива работников по имени
+        workersArray.sortByName();
+
+        // Вывод информации о работниках
+        System.out.println("Sorted by name:");
+        WorkerCompany.printWorkersInfo();
+
+        // Сортировка массива работников по заработной плате
+        workersArray.sortByAverageSalary();
+
+        // Вывод информации о работниках
+        System.out.println("Sorted by average salary:");
+        workersArray.printWorkersInfo();
     }
 }
