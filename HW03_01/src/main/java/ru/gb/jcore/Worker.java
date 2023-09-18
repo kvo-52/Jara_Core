@@ -12,7 +12,7 @@ public class Worker {
      */
     public abstract double calculateAverageSalary(){
         return x;
-    };
+    }
 
     public String getName() {
         return name;
