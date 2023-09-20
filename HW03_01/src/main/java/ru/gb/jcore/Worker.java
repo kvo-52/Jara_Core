@@ -10,9 +10,7 @@ public class Worker {
     /**
      * Абстрактный метод расчёта среднемесячной заработной платы
      */
-    public double calculateAverageSalary() {
-        return 0;
-    }
+    public abstract double calculateAverageSalary();
 
     public String getName() {
         return name;
