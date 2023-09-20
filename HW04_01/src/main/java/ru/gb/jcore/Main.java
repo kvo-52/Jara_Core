@@ -4,9 +4,15 @@ package ru.gb.jcore;
 public class Main {
     public static void main(String[] args) {
         String[][] array = {{"1", "2", "3", "4"}, {"5", "6", "7", "8"}, {"9", "10", "11", "12"}, {"13", "14", "15", "16"}};
-
+        String[][] symbol = {{"1", "2", "3", "4"}, {"5", "√", "7", "8"}, {"9", "10", "11", "12"}, {"13", "14", "15", "16"}};
+        String[][] size = {{"1", "2", "3", "4", "5"}, {"5", "√", "7", "8"}, {"9", "10", "11", "12"}, {"13", "14", "15", "16"}};
         try {
-            int result = processArray(array);
+         //   int result = processArray(array);
+           int result1 = processArray(symbol);
+//            int result2 = processArray(size);
+           // System.out.println("Сумма элементов массива: " + result);
+          System.out.println("Сумма элементов массива: " + result1);
+//            System.out.println("Сумма элементов массива: " + result2);
         } catch (MyArraySizeException e) {
             e.printStackTrace();
         } catch (MyArrayDataException e) {
