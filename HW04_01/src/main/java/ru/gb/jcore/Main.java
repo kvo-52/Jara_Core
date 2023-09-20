@@ -23,4 +23,18 @@ public class Main {
 
         return sum;
     }
+
+    class MyArraySizeException extends RuntimeException {
+        private String message;
+
+        public MyArraySizeException(String message){
+            this.message = message;
+        }
+
+        @Override
+        public void printStackTrace() {
+            super.printStackTrace();
+            System.out.println(message);
+        }
+    }
 }
