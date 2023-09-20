@@ -27,7 +27,7 @@ public class Main {
     class MyArraySizeException extends RuntimeException {
         private String message;
 
-        public MyArraySizeException(String message){
+        public MyArraySizeException(String message) {
             this.message = message;
         }
 
@@ -35,6 +35,18 @@ public class Main {
         public void printStackTrace() {
             super.printStackTrace();
             System.out.println(message);
+        }
+    }
+
+    class MyArrayDataException extends NumberFormatException {
+        private int row;
+        private int column;
+        private String message;
+
+        public MyArrayDataException(String message, int row, int column) {
+            this.message = message;
+            this.row = row;
+            this.column = column;
         }
     }
 }
