@@ -3,8 +3,17 @@ package ru.gb.jcore;
 
 public class Main {
     public static void main(String[] args) {
+        String[][] array = {{"1", "2", "3", "4"}, {"5", "6", "7", "8"}, {"9", "10", "11", "12"}, {"13", "14", "15", "16"}};
 
+        try {
+            int result = processArray(array);
+        } catch (MyArraySizeException e) {
+            e.printStackTrace();
+        } catch (MyArrayDataException e) {
+            e.printStackTrace();
         }
+    }
+
     public static int processArray(String[][] array) throws MyArraySizeException, MyArrayDataException {
         if (array.length != 4 || array[0].length != 4) {
             throw new MyArraySizeException("Неверный размер массива");
@@ -23,6 +32,7 @@ public class Main {
 
         return sum;
     }
+}
 
     class MyArraySizeException extends RuntimeException {
         private String message;
@@ -48,5 +58,18 @@ public class Main {
             this.row = row;
             this.column = column;
         }
+
+        public int getRow() {
+            return row;
+        }
+
+        public int getColumn() {
+            return column;
+        }
+
+        @Override
+        public void printStackTrace() {
+            super.printStackTrace();
+            System.out.println(message + "[" + row + "," + column + "]");
+        }
     }
-}
