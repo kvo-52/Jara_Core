@@ -1,5 +1,6 @@
 package ru.gb.jcore;
 
+import java.io.File;
 public class Tree {
 
     /**
