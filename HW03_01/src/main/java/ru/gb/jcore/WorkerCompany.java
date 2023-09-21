@@ -26,7 +26,7 @@ public class WorkerCompany {
     /** Метод для вывода информации о работниках
      *
      */
-    public void printWorkersInfo() {
+    public static void printWorkersInfo() {
         for (Worker worker : workers) {
             System.out.println("Name: " + worker.getName() + ", Average Salary: " + worker.calculateAverageSalary());
         }
